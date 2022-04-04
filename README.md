@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Citas React 👋</h1>
-<p>
+<p style="text-align:center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -9,25 +9,23 @@
   </a>
 </p>
 
-> React Course Udemy
+> A little app to capture patients of a veterinary, data is stored on LocalStorage, all the project was made with React,  technologies used on this project were Vite, TailwindCSS, PostCSS.
 
-### 🏠 [Homepage]( )
+## ✨ [Demo](https://adorable-kheer-89114d.netlify.app/)
 
-### ✨ [Demo]( )
-
-## Install
+### Install
 
 ```sh
 npm install
 ```
 
-## Usage
+### Usage
 
 ```sh
 npm run dev
 ```
 
-## Author
+### Author
 
 👤 **Carlos Javier Diaz Flores**
 
@@ -36,11 +34,11 @@ npm run dev
 * Github: [@cardiadev](https://github.com/cardiadev)
 * LinkedIn: [@cardiadev](https://linkedin.com/in/cardiadev)
 
-## Show your support
+### Show your support
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
+### 📝 License
 
 Copyright © 2022 [Carlos Javier Diaz Flores](https://github.com/cardiadev).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
